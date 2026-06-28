@@ -1,3 +1,11 @@
+# ==============================================================================
+# Project: ESG & Public Health (Drug-Related Mortality)
+# Description: Two-way ANOVA modelling evaluating class A drug-related mortality 
+#              rates across age demographics and gender. Includes ordinal factor 
+#              sorting, interaction testing, residual diagnostics, and 
+#              demographic summary statistics.
+# ==============================================================================
+
 # Import dataset
 drug <- read.csv("DrugDeaths.csv", stringsAsFactors = TRUE)
 str(drug)
