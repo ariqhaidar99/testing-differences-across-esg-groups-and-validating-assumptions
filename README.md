@@ -1,4 +1,4 @@
-# ESG ANOVA & Hypothesis Testing
+# ESG Data Analysis: ANOVA & Hypothesis Testing
 
 ## 🌍 Overview
 This repository contains a collection of R scripts demonstrating advanced hypothesis testing and Analysis of Variance (ANOVA). The projects highlight the ability to handle categorical explanatory variables, test for significant differences across multiple groups, manage interaction terms, and correct residual variance issues using mathematical transformations.
